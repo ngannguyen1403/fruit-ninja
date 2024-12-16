@@ -14,7 +14,8 @@ Press the `Esc` key to exit.
   -   Apple 
   -   Watermelon
   -   Mango
-  -   Coconut 
+  -   Coconut
+  -   Dragonfruit
   -   Bomb 
 -   Silver knife trail cuts anything it touches (cut several fruits at the same time)
 -   Start menu (hands up before playing to avoid accidentally starting)
