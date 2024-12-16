@@ -12,10 +12,10 @@ Press the `Esc` key to exit.
 ### Features:
 - **Fruits**:
   -   Apple 
-  -   Watermelon 🍉
-  -   Kiwi 🥝
-  -   Coconut 🍊
-  -   Bomb 💣
+  -   Watermelon
+  -   Mango
+  -   Coconut 
+  -   Bomb 
 -   Silver knife trail cuts anything it touches (cut several fruits at the same time)
 -   Start menu (hands up before playing to avoid accidentally starting)
 -   Preview webcam video while playing by changing the `SHOW_WEBCAM` setting in [fruit_ninja.py](https://github.com/mmbaguette/Fruit-Ninja-VR/blob/main/scripts/fruit_ninja.py)
