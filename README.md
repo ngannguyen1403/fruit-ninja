@@ -8,17 +8,15 @@ Copy this GitHub repository, and run [fruit_ninja.py](scripts/fruit_ninja.py) wi
 
 Press the `Esc` key to exit.
 
-### Gameplay:
-![fruit ninja](https://user-images.githubusercontent.com/76597978/146680831-99c0f914-2de2-42e8-bf02-091144159612.gif)
 
 ### Features:
 - **Fruits**:
-  -   Pineapple 🍍
+  -   Apple 
   -   Watermelon 🍉
   -   Kiwi 🥝
-  -   Orange 🍊
+  -   Coconut 🍊
   -   Bomb 💣
--   Black knife trail cuts anything it touches (cut several fruits at the same time)
+-   Silver knife trail cuts anything it touches (cut several fruits at the same time)
 -   Start menu (hands up before playing to avoid accidentally starting)
 -   Preview webcam video while playing by changing the `SHOW_WEBCAM` setting in [fruit_ninja.py](https://github.com/mmbaguette/Fruit-Ninja-VR/blob/main/scripts/fruit_ninja.py)
 
@@ -29,7 +27,6 @@ pip install opencv-python
 pip install mediapipe
 ```
 
-![alt text](https://github.com/mmbaguette/Fruit-Ninja-VR/blob/main/preview/fruit%20ninja.jpg?raw=true)
 
 ### Pyinstaller (package game into an executable)
 
