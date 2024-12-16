@@ -30,6 +30,14 @@ fruit_names = [
         (88, 94) 
     ],
     [
+        "dragonfruit",
+        "images/dragonfruit.png",
+        3,
+        40,
+        1/6,
+        (240, 300) 
+    ],
+    [
         "watermelon",
         "images/watermelon.png",
         6,
