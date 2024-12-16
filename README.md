@@ -1,4 +1,4 @@
-# Fruit Ninja 3D (using webcam) 🍉
+# Fruit Ninja
 
 Fruit Ninja in **pygame** using pose estimation in **MediaPipe**.
 
